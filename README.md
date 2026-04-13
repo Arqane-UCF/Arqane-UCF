@@ -10,6 +10,7 @@ My focus for the near future will be on robotic AI, but I always have a soft spo
 ## 🚀 Projects
 ### 🔹 Project 1
 Olympull, a collectible card game designed with mobile and web interfaces.  Written for CS 4331, the first full stack software development class offered to CS students.  I headed the mobile app for iOS and Android using Dart/Flutter.
+
 🔗 Repo: https://github.com/UCF-GroupProj/poosd-monorepo
 - Currently organizing...
 
