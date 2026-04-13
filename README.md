@@ -15,7 +15,8 @@ Olympull, a collectible card game designed with mobile and web interfaces. Writt
 
 ### 🔹 Example 1
 A small example of beating even the best general algorithms. From an assignment in CS 3223, which is the second algorithm class meant to teach the best general algorithms that usually run in some version of O(log n) time. As it was the first professor that allowed some flexibility in the method, I turned the need for a search through n units into a single bitwise & check.
-https://github.com/Arqane-UCF/Bitwise-rocks
+
+🔗 Repo: https://github.com/Arqane-UCF/Bitwise-rocks
 
 - Currently organizing...
 
