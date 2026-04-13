@@ -9,12 +9,12 @@ My focus for the near future will be on robotic AI, but I always have a soft spo
   
 ## 🚀 Projects & Examples
 ### 🔹 Project 1
-Olympull, a collectible card game designed with mobile and web interfaces. Written for CS 4331, the first full stack software development class offered to CS students. I headed the mobile app for iOS and Android using Dart/Flutter.
+Olympull, a collectible card game designed with mobile and web interfaces. Written for COP 4331, the first full stack software development class offered to CS students. I headed the mobile app for iOS and Android using Dart/Flutter.
 
 🔗 Repo: https://github.com/UCF-GroupProj/poosd-monorepo
 
 ### 🔹 Example 1
-A small example of beating even the best general algorithms. From an assignment in CS 3223, which is the second algorithm class meant to teach the best general algorithms that usually run in some version of O(log n) time. As it was the first professor that allowed some flexibility in the method, I turned the need for a search through n units into a single bitwise & check.
+A small example of beating even the best general algorithms. From an assignment in COP 3503, which is the second algorithm class meant to teach the best general algorithms that usually run in some version of O(log n) time. As it was the first professor that allowed some flexibility in the method, I turned the need for a search through n units into a single bitwise & check.
 
 🔗 Repo: https://github.com/Arqane-UCF/Bitwise-rocks
 
